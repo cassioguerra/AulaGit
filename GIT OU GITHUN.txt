@@ -1,0 +1,39 @@
+git init -> criar arquivo git 
+git status -> para saber o estus do arquiov 
+
+ADD
+git add . -> para dicionar tudo
+
+-- COMMIT 
+git commit arquivo.txt -m 'comitando apenas 1 arquivo';
+git commit -m 'comitando todo os arquivos'
+
+-- envidando para o GITHUB 
+git branch -M main 
+ git remote add origin (caminho do repositorio)https://github.com/cassioguerra/phpDash.git
+git push -u origin main '
+
+------ git Pull -----------
+git pull -> ayualiza o seu local o brand
+
+--------- git clone -----------
+git clone url  -> traz a pasta inteira 
+git clone url . ->  tras apanas os arquivos 
+
+--------------- git LOg -----------------------------------
+git log -> traz o histori de commit 
+
+ --------- git checkout ou hou back------------------------
+git checkou nome do arquivo ---> para o aquivo voltar ao estado original ants esubir 
+
+------------------- .gitiginor --------------------------------
+
+para não envir para os arquivo é criado uma pasta chamdo .gitignore
+e dento do aquivo colocar todas as informação que nçao vai pra o gitHub 
+
+
+----------------- para voltar o status incial igual master------
+
+git reset --hard origin/(brand/ou master) -> vai resetar do zero.
+/ vou com base do ultimo commit enviado para o github 
+

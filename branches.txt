@@ -1,0 +1,45 @@
+Branch
+-> A branch ele faz com que eu possa fazer alteração sem mercher no com a master, dessa forma quando tiver um bang a master(produção)não sera afetada, apos finalizar o codigo ou o bang e aprovação da PR ele faz um MERGE com a MASTER.
+
+
+
+----------- Ciar e visualizar a Branch----------------------------
+ 
+git branch -> p/ saber todas as branch do meu projeto
+git branch "(nome da brand)" -> para criar um brand
+git checkout -b "(nome da brand)" -> para criar a branch elogo após  ir para dentro de sem precisar de checkout
+
+
+
+------ Mudar de uma Brand para outra -------------------------------
+git  checkout (nome da brand criada)
+
+
+------------ DELETAR BRANCH ----------------------------------------
+ git branch -D (nome da branch) -> para deletar a branch
+
+
+--------- unir a MASTER E BRANCH ou conhecido como git marge  -------
+ apos atualizar a master  segue com o processo de push para o GITHUB.
+git marge (branch) _>atualizar a maingit stat
+git merge (master) para atualiza a branch
+ 
+
+
+---------------- git  stash Boa pratica para não apagar------------------------------------------
+ 
+git  stash -> volta para o ultimo commit da brand atual
+git stash  list -> para ver o historico de stash
+git stash apply (id da stash) -> para recuperar stash
+git stach show -p (id da stash) -> para saber qual a diferencia do stach atual para os stach escolhido por id.
+
+
+
+
+
+
+
+
+
+
+
