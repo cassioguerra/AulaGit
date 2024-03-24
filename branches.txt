@@ -47,10 +47,11 @@ git shortlog ->  ver o logs por usuario atraver de login
 -----------------------------------------------------------------
 git diff  -> COMPARAR O QUE ESTA NO LOCAL COM O DO GIT HUB
  git diff (nome branch)-> para ver o que esta duferente na branch que estou com aquie qeuro comparar
+ git diff HEAD: (nome arquivo)-> fazer comparação de arquivo especifico
 
 
 
-
+    
 
 
 
