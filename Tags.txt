@@ -3,4 +3,5 @@ Para vriar verção do codigo exemplo
 
 -- criar um tga nova 
 
-git tag -a (NOME DA TAG) -m "descricão da tag"
+git tag -a (NOME DA TAG) -m "descricão da tag" -> criar taga 
+git tag -> listar tags 
