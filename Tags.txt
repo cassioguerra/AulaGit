@@ -5,3 +5,8 @@ Para vriar verção do codigo exemplo
 
 git tag -a (NOME DA TAG) -m "descricão da tag" -> criar taga 
 git tag -> listar tags 
+git show (nome da tag)  -> mostra o que tem e oque foi feito na tag
+git checkout (nome tag) -> troca e alterna de tgas
+
+git push origin (nome tag) -> envia apenas  uma tag 
+git push origin --tags  -> envia todas as Tgs criada 
