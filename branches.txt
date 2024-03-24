@@ -33,6 +33,10 @@ git stash  list -> para ver o historico de stash
 git stash apply (id da stash) -> para recuperar stash
 git stach show -p (id da stash) -> para saber qual a diferencia do stach atual para os stach escolhido por id.
 
+---------------------------------------------------
+
+git push --set upstream origin (nome da branch)-> para subir uma btanch
+git fetch -a -> para buscar todas as btanch do repositrio do github 
 
 
 

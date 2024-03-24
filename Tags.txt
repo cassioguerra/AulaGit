@@ -10,3 +10,5 @@ git checkout (nome tag) -> troca e alterna de tgas
 
 git push origin (nome tag) -> envia apenas  uma tag 
 git push origin --tags  -> envia todas as Tgs criada 
+
+
