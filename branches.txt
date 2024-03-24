@@ -38,7 +38,14 @@ git stach show -p (id da stash) -> para saber qual a diferencia do stach atual p
 git push --set upstream origin (nome da branch)-> para subir uma btanch
 git fetch -a -> para buscar todas as btanch do repositrio do github 
 
+-----------------------------------------------------------
+git gc -> excluir todos os arquivos que não precisa mais do dojeto
 
+-------------------------------------------------------------------
+git shortlog ->  ver o logs por usuario atraver de login 
+
+-----------------------------------------------------------------
+git diff  -> COMPARAR O QUE ESTA NO LOCAL COM O DO GIT HUB
 
 
 
